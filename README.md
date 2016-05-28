@@ -25,6 +25,8 @@ There are 3 key points to take into consideration with these platforms:
 
 [jsfiddle.net](https://jsfiddle.net/)
 
+![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsfiddle.png)
+
 ### Applications:
 
 [sublimetext](https://www.sublimetext.com/)
