@@ -3,7 +3,7 @@
 An introduction to console options when starting out.
 
 Code simulators and consoles are a great tool for creating pieces of code and debugging purposes. 
-<br>These tools are particularly useful to help solving Codewars katas.
+<br>These tools are particularly useful to help solve Codewars katas.
 
 There are many different options to suit your different coding requirements. Here are some popular suggestions with pros and cons for each. 
 
