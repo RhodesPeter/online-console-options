@@ -21,6 +21,8 @@ There are 3 key points to take into consideration with these platforms:
 
 [jsbin.com](https://jsbin.com)
 
+![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsbin.com.png)
+
 [jsfiddle.net](https://jsfiddle.net/)
 
 ### Applications:
