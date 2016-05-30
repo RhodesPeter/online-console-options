@@ -34,8 +34,8 @@ There are 3 key points to take into consideration with these platforms:
   2. The tool is a simple syntax and error checker. <br>
   3. 100% functionality can be used without an account. <br>
 
-<b>Pros:</b><br>
-<b>Cons:</b>
+<b>Pros:</b> Very intuitive to use. Best tool for simple debugging purposes<br>
+<b>Cons:</b> No console output makes the tool limited in its use.<br>
 <br>
 <br>
 
