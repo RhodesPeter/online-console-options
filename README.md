@@ -27,6 +27,6 @@ There are 3 key points to take into consideration with these platforms:
 
 ![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsfiddle.png)
 
-[jsfiddle.net](http://codepen.io/nullobject/pen/rAbio)
+[codepen.io](http://codepen.io/nullobject/pen/rAbio)
 
 ![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/CodePen.png)
