@@ -53,8 +53,14 @@ Cons:
 
 ####[jsfiddle.net](https://jsfiddle.net/)
 ![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsfiddle.png)<br>
-Pros:<br>
-Cons:
+
+ 1. Supported languages: Javascript, HTML, CSS, CoffeeScript<br>
+ 2. You can run code in the console and there is a built in error checker too.<br>
+ 3. Most of the functionality that a beginner needs can be used without signing up or a 'Pro' account.<br>
+
+Pros: Built in tool to collaboratively code with others.<br>
+Cons: Tricky to get the hang of when starting out, best to use when code is needed to <br>
+build alongside HTML AND CSS. 
 <br>
 <br>
 
