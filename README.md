@@ -80,6 +80,10 @@ There are 3 key points to take into consideration when choosing a platform to us
 
 This README focuses on online debugging and console tools, an extension of this README would be to explore a beginner's options in regards to applications that run direct from your OS such as Oracle and Android Studio.
 
+Here are some related Coding for Everyone READMEs:<br>
+[Debugging](https://github.com/codingforeveryone/READMEs/blob/master/programmer-skills/Debugging-Javascript.md)<br>
+[Start to develop with JavaScript](https://github.com/codingforeveryone/READMEs/blob/master/programmer-skills/start-to-develop-js.md)<br>
+
 ### References and further reading
 
 [Tools for coding online.](http://www.hongkiat.com/blog/tools-to-coding-online/)<br>
