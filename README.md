@@ -47,7 +47,7 @@ There are 3 key points to take into consideration with these platforms:
   3. Most of the functionality that a beginner needs can be used without signing up or a 'Pro' account.<br>
 
 <b>Pros:</b> Enables you to code Javascript alongside HTML and CSS. Share code with Gist. <br>
-<b>Cons:</b> No big cons for a begginer.<br>
+<b>Cons:</b> A great tool for begginers with few flaws.<br>
 <br>
 <br>
 
