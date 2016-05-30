@@ -44,7 +44,7 @@ There are 3 key points to take into consideration when choosing a platform to us
 
   1. Supported languages: JavaScript, HTML, CSS, CoffeeScript<br>
   2. You can run code in the console and there is a built in error checker too.<br>
-  3. Most of the functionality that a beginner needs can be used without signing up or a 'Pro' account.<br>
+  3. Most of the functionality that a beginner needs can be used without signing up to a 'Pro' account.<br>
 
 <b>Pros:</b> Enables you to code JavaScript alongside HTML and CSS. Share code with Gist. <br>
 <b>Cons:</b> A great tool for beginners with few flaws.<br>
