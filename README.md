@@ -1,6 +1,8 @@
 # Online Console Options
 
-An introduction to online console options when starting out as a software developer.
+###Introduction:
+
+This README tutorial is an introduction to your online console and debugging options when starting out as a software developer.
 
 Code compilers and consoles are a great tool for creating small pieces of code and debugging purposes. 
 <br>These tools are particularly useful when solving Codewars katas.
@@ -13,7 +15,7 @@ There are 3 key points to take into consideration when choosing a platform to us
   2. Do they simply help debug through syntax checking or can you run code and check the result in a console?
   3. Do you have to set up an account to use them?
 
-### Online Platforms:
+### Console and Debugging Platforms:
 
 ####[repl.it](https://repl.it/)
 ![alt tag](https://raw.githubusercontent.com/RhodesPeter/Console-Options/Screenshots/Repl.it.png)<br>
