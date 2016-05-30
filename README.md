@@ -22,8 +22,8 @@ There are 3 key points to take into consideration with these platforms:
   2. You can run code in the console and there is a built in syntax checker too.<br>
   3. You can use this tool without an account and can save multiple sets of code with an account<br>
 
-<s>Pros:<s/><br>
-Cons:
+<b>Pros:</b><br>
+<b>Cons:</b>
 <br>
 <br>
 
