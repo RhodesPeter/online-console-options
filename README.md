@@ -15,27 +15,37 @@ There are 3 key points to take into consideration with these platforms:
 
 ### Online Platforms:
 
-[repl.it](https://repl.it/)<br>
+####[repl.it](https://repl.it/)<br>
 ![alt tag](https://raw.githubusercontent.com/RhodesPeter/Console-Options/Screenshots/Repl.it.png)
 Pros:<br>
 Cons:
+<br>
+<br>
 
-[jshint.com](http://jshint.com)<br>
+####[jshint.com](http://jshint.com)<br>
 ![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/jshint.com.png)
 Pros:<br>
 Cons:
+<br>
+<br>
 
-[jsbin.com](https://jsbin.com)<br>
+####[jsbin.com](https://jsbin.com)<br>
 ![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsbin.com.png)
 Pros:<br>
 Cons:
+<br>
+<br>
 
-[jsfiddle.net](https://jsfiddle.net/)<br>
+####[jsfiddle.net](https://jsfiddle.net/)<br>
 ![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsfiddle.png)
 Pros:<br>
 Cons:
+<br>
+<br>
 
-[codepen.io](http://codepen.io/nullobject/pen/rAbio)<br>
+####[codepen.io](http://codepen.io/nullobject/pen/rAbio)<br>
 ![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/codepen.io.png)
 Pros:<br>
 Cons:
+<br>
+<br>
