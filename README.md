@@ -18,19 +18,19 @@ There are 3 key points to take into consideration with these platforms:
 ####[repl.it](https://repl.it/)
 ![alt tag](https://raw.githubusercontent.com/RhodesPeter/Console-Options/Screenshots/Repl.it.png)<br>
  
-  1. Supported languages: Python, Javascript, Ruby, Scheme, C#, Java, PHP, C++, C... (The list goes on!)<br>
+  1. Supported languages: Python, JavaScript, Ruby, Scheme, C#, Java, PHP, C++, C... (The list goes on!)<br>
   2. You can run code in the console and there is a built in syntax checker too.<br>
   3. You can use this tool without an account and can save multiple sets of code with an account<br>
 
 <b>Pros: The best tool for creating functions and testing them in a console. Free service with great aims to democratize and coding and make it accessible. </b><br>
-<b>Cons: You have to create an account to retreve saved code</b>
+<b>Cons: You have to create an account to retrieve saved code</b>
 <br>
 <br>
 
 ####[jshint.com](http://jshint.com)
 ![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/jshint.com.png)<br>
 
-  1. Supported languages: Javascript. <br>
+  1. Supported languages: JavaScript. <br>
   2. The tool is a simple syntax and error checker. <br>
   3. 100% functionality can be used without an account. <br>
 
@@ -42,23 +42,23 @@ There are 3 key points to take into consideration with these platforms:
 ####[jsbin.com](https://jsbin.com)
 ![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsbin.com.png)<br>
 
-  1. Supported languages: Javascript, HTML, CSS, CoffeeScript<br>
+  1. Supported languages: JavaScript, HTML, CSS, CoffeeScript<br>
   2. You can run code in the console and there is a built in error checker too.<br>
   3. Most of the functionality that a beginner needs can be used without signing up or a 'Pro' account.<br>
 
-<b>Pros:</b> Enables you to code Javascript alongside HTML and CSS. Share code with Gist. <br>
-<b>Cons:</b> A great tool for begginers with few flaws.<br>
+<b>Pros:</b> Enables you to code JavaScript alongside HTML and CSS. Share code with Gist. <br>
+<b>Cons:</b> A great tool for beginners with few flaws.<br>
 <br>
 <br>
 
 ####[jsfiddle.net](https://jsfiddle.net/)
 ![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsfiddle.png)<br>
 
- 1. Supported languages: Javascript, HTML, CSS, CoffeeScript<br>
+ 1. Supported languages: JavaScript, HTML, CSS, CoffeeScript<br>
  2. You can run code in the console and there is a built in error checker too.<br>
  3. Most of the functionality that a beginner needs can be used without signing up to a 'Pro' account.<br>
 
-<b>Pros:</b> Built in tool to collaboratively code with others. Useful to code Javascript alongside HTML and CSS.<br>
+<b>Pros:</b> Built in tool to collaboratively code with others. Useful to code JavaScript alongside HTML and CSS.<br>
 <b>Cons:</b> Tricky to get the hang of when starting out, best to use when code is needed to be built alongside HTML AND CSS. 
 <br>
 <br>
@@ -66,11 +66,11 @@ There are 3 key points to take into consideration with these platforms:
 ####[codepen.io](http://codepen.io/nullobject/pen/rAbio)
 ![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/codepen.io.png)<br>
 
- 1. Supported languages: Javascript, HTML, CSS, CoffeeScript<br>
+ 1. Supported languages: JavaScript, HTML, CSS, CoffeeScript<br>
  2. You can run code in the console and there is a built in error checker too.<br>
- 3. Basic functionality can be used without an account but the tool is a small part of a bigger pay for service that most begginers won't want or need.<br>
+ 3. Basic functionality can be used without an account but the tool is a small part of a bigger pay for service that most beginners won't want or need.<br>
 
-<b>Pros:</b> Useful to code Javascript alongside HTML and CSS.<br>
+<b>Pros:</b> Useful to code JavaScript alongside HTML and CSS.<br>
 <b>Cons:</b> Could be more intuitive to use. 
 <br>
 <br>
