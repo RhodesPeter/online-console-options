@@ -59,7 +59,7 @@ There are 3 key points to take into consideration when choosing a platform to us
  3. Most of the functionality that a beginner needs can be used without signing up to a 'Pro' account.<br>
 
 <b>Pros:</b> Built in tool to collaboratively code with others. Useful to code JavaScript alongside HTML and CSS.<br>
-<b>Cons:</b> Tricky to get the hang of when starting out, best to use when code is needed to be built alongside HTML AND CSS. 
+<b>Cons:</b> Tricky to get the hang of when starting out.</br> 
 <br>
 <br>
 
