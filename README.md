@@ -56,16 +56,21 @@ Cons:
 
  1. Supported languages: Javascript, HTML, CSS, CoffeeScript<br>
  2. You can run code in the console and there is a built in error checker too.<br>
- 3. Most of the functionality that a beginner needs can be used without signing up or a 'Pro' account.<br>
+ 3. Most of the functionality that a beginner needs can be used without signing up to a 'Pro' account.<br>
 
-Pros: Built in tool to collaboratively code with others.<br>
+Pros: Built in tool to collaboratively code with others. Useful to code Javascript alongside HTML and CSS.<br>
 Cons: Tricky to get the hang of when starting out, best to use when code is needed to be built alongside HTML AND CSS. 
 <br>
 <br>
 
 ####[codepen.io](http://codepen.io/nullobject/pen/rAbio)
 ![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/codepen.io.png)<br>
-Pros:<br>
-Cons:
+
+ 1. Supported languages: Javascript, HTML, CSS, CoffeeScript<br>
+ 2. You can run code in the console and there is a built in error checker too.<br>
+ 3. Basic functionality can be used without an account but the tool is a small part of a bigger pay for service that most begginers won't want or need.<br>
+
+Pros: Useful to code Javascript alongside HTML and CSS.<br>
+Cons: Could be more intuitive to use. 
 <br>
 <br>
