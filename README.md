@@ -2,7 +2,7 @@
 
 An introduction to console options when starting out as a software developer.
 
-Code simulators and consoles are a great tool for creating pieces of code and debugging purposes. 
+Code compilers and consoles are a great tool for creating small pieces of code and debugging purposes. 
 <br>These tools are particularly useful when solving Codewars katas.
 
 There are many different options to suit your coding requirements. Here are some popular suggestions with pros and cons for each. 
