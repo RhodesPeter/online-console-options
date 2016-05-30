@@ -29,4 +29,4 @@ There are 3 key points to take into consideration with these platforms:
 
 [codepen.io](http://codepen.io/nullobject/pen/rAbio)
 
-![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/codepen.png)
+![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/codepen.io.png)
