@@ -16,10 +16,10 @@ There are 3 key points to take into consideration with these platforms:
 ### Online Platforms:
 
 ####[repl.it](https://repl.it/)
-![alt tag](https://raw.githubusercontent.com/RhodesPeter/Console-Options/Screenshots/Repl.it.png)
+![alt tag](https://raw.githubusercontent.com/RhodesPeter/Console-Options/Screenshots/Repl.it.png)<br>
  
   1. Supported languages: Python, Javascript, Ruby, Scheme, C#, Java, PHP, C++, C... (The list goes on!)<br>
-  2. You can run code into the console and there is a built in syntax checker too.<br>
+  2. You can run code in the console and there is a built in syntax checker too.<br>
   3. You can use this tool without an account and can save multiple sets of code with an account<br>
 
 Pros:<br>
@@ -41,7 +41,12 @@ Cons:
 
 ####[jsbin.com](https://jsbin.com)
 ![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsbin.com.png)<br>
-Pros:<br>
+
+  1. Supported languages: Javascript, HTML, CSS, CoffeeScript<br>
+  2. You can run code in the console and there is a built in error checker too.<br>
+  3. Most of the functionality that a beginner needs can be used without signing up or a 'Pro' account.<br>
+
+Pros: js.bin enables you to code Javascript alongside HTML and CSS. <br>
 Cons:
 <br>
 <br>
