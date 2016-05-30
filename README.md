@@ -1,4 +1,4 @@
-# Console Options
+# Online Console Options
 
 An introduction to console options when starting out.
 
@@ -26,11 +26,3 @@ There are 3 key points to take into consideration with these platforms:
 [jsfiddle.net](https://jsfiddle.net/)
 
 ![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsfiddle.png)
-
-### Applications:
-
-[sublimetext](https://www.sublimetext.com/)
-
-### Text Edit Applications:
-
-[TextWrangler](http://www.barebones.com/products/textwrangler/index.html)
