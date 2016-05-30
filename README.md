@@ -46,8 +46,8 @@ There are 3 key points to take into consideration with these platforms:
   2. You can run code in the console and there is a built in error checker too.<br>
   3. Most of the functionality that a beginner needs can be used without signing up or a 'Pro' account.<br>
 
-<b>Pros:</b> js.bin enables you to code Javascript alongside HTML and CSS. <br>
-<b>Cons:</b>
+<b>Pros:</b> Enables you to code Javascript alongside HTML and CSS. Share code with Gist. <br>
+<b>Cons:</b> No big cons for a begginer.<br>
 <br>
 <br>
 
