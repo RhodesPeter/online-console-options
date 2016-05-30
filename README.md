@@ -1,4 +1,4 @@
-# Online Console Options
+# Online console options
 
 ###Introduction:
 
@@ -15,7 +15,7 @@ There are 3 key points to take into consideration when choosing a platform to us
   2. Do they simply help debug through syntax checking or can you run code and check the result in a console?
   3. Do you have to set up an account to use them?
 
-### Console and Debugging Platforms:
+### Console and debugging tools:
 
 ####[repl.it](https://repl.it/)
 ![alt tag](https://raw.githubusercontent.com/RhodesPeter/Console-Options/Screenshots/Repl.it.png)<br>
@@ -80,7 +80,7 @@ There are 3 key points to take into consideration when choosing a platform to us
 
 This README focuses on online debugging and console tools, an extension of this README would be to explore a beginner's options in regards to applications that run direct from your OS such as Oracle and Android Studio.
 
-### References and Further Reading
+### References and further reading
 
 [Tools for coding online.](http://www.hongkiat.com/blog/tools-to-coding-online/)<br>
 [Online browser based debugging tools.](https://www.sitepoint.com/10-javascript-online-browser-based-debugging-tools/)<br>
