@@ -5,7 +5,7 @@ An introduction to online console options when starting out as a software develo
 Code compilers and consoles are a great tool for creating small pieces of code and debugging purposes. 
 <br>These tools are particularly useful when solving Codewars katas.
 
-There are many different options to suit your coding requirements. Here are some popular suggestions with pros and cons for each. 
+There are many options to suit your coding requirements. Here are some popular suggestions with pros and cons for each. 
 
 There are 3 key points to take into consideration with these platforms:
 
