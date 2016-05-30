@@ -22,8 +22,8 @@ There are 3 key points to take into consideration when choosing a platform to us
   2. You can run code in the console and there is a built in syntax checker too.<br>
   3. You can use this tool without an account and can save multiple sets of code with an account<br>
 
-<b>Pros: The best tool for creating functions and testing them in a console. Free service with great aims to democratize and coding and make it accessible. </b><br>
-<b>Cons: You have to create an account to retrieve saved code</b>
+<b>Pros:</b> The best tool for creating functions and testing them in a console. Free service with great aims to democratize and coding and make it accessible.<br>
+<b>Cons:<b/> You have to create an account to retrieve saved code.
 <br>
 <br>
 
