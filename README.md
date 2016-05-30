@@ -1,6 +1,6 @@
 # Online Console Options
 
-An introduction to console options when starting out as a software developer.
+An introduction to online console options when starting out as a software developer.
 
 Code compilers and consoles are a great tool for creating small pieces of code and debugging purposes. 
 <br>These tools are particularly useful when solving Codewars katas.
