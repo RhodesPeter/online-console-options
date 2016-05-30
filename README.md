@@ -30,3 +30,7 @@ There are 3 key points to take into consideration with these platforms:
 [codepen.io](http://codepen.io/nullobject/pen/rAbio)
 
 ![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/codepen.io.png)
+
+[jshint.com](http://jshint.com)
+
+![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/jshint.com.png)
