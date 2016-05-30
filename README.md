@@ -18,9 +18,9 @@ There are 3 key points to take into consideration with these platforms:
 ####[repl.it](https://repl.it/)<br>
 ![alt tag](https://raw.githubusercontent.com/RhodesPeter/Console-Options/Screenshots/Repl.it.png)
  
-  1.<br>
-  2.<br>
-  3.<br>
+  1. You can use this tool without an account and can save multiple code blocks with an account<br>
+  2. Supported languages: Python, Javascript, Ruby, Scheme, C#, Java, PHP, C++, C... (The list goes on!)<br>
+  3. You can run code into the console and there is a built in syntax checker.<br>
 
 Pros:<br>
 Cons:
