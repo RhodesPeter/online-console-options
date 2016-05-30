@@ -74,3 +74,10 @@ There are 3 key points to take into consideration when choosing a platform to us
 <b>Cons:</b> Could be more intuitive to use. 
 <br>
 <br>
+
+### References and Further Reading
+
+http://www.hongkiat.com/blog/tools-to-coding-online/
+https://www.sitepoint.com/10-javascript-online-browser-based-debugging-tools/
+http://webmasters.stackexchange.com/questions/8525/how-to-open-the-javascript-console-in-different-browsers
+http://labs.codecademy.com/
