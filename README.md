@@ -1,6 +1,6 @@
 # Online Console Options
 
-An introduction to console options when starting out.
+An introduction to console options when starting out as a software developer.
 
 Code simulators and consoles are a great tool for creating pieces of code and debugging purposes. 
 <br>These tools are particularly useful when solving Codewars katas.
