@@ -73,7 +73,6 @@ There are 3 key points to take into consideration when choosing a platform to us
 <b>Pros:</b> Useful to code JavaScript alongside HTML and CSS.<br>
 <b>Cons:</b> Could be more intuitive to use. 
 <br>
-<br>
 
 ### Related
 
