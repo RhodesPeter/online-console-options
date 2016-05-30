@@ -59,7 +59,7 @@ Cons:
  3. Most of the functionality that a beginner needs can be used without signing up or a 'Pro' account.<br>
 
 Pros: Built in tool to collaboratively code with others.<br>
-Cons: Tricky to get the hang of when starting out, best to use when code is needed to build alongside HTML AND CSS. 
+Cons: Tricky to get the hang of when starting out, best to use when code is needed to be built alongside HTML AND CSS. 
 <br>
 <br>
 
