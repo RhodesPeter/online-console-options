@@ -7,7 +7,7 @@ Code compilers and consoles are a great tool for creating small pieces of code a
 
 There are many options to suit your coding requirements. Here are some popular suggestions with pros and cons for each. 
 
-There are 3 key points to take into consideration with these platforms:
+There are 3 key points to take into consideration when choosing a platform to use:
 
   1. What coding languages do they support?
   2. Do they simply help debug through syntax checking or can you run code and check the result in a console?
