@@ -34,8 +34,8 @@ There are 3 key points to take into consideration with these platforms:
   2. The tool is a simple syntax and error checker. <br>
   3. 100% functionality can be used without an account. <br>
 
-Pros:<br>
-Cons:
+<b>Pros:</b><br>
+<b>Cons:</b>
 <br>
 <br>
 
@@ -46,8 +46,8 @@ Cons:
   2. You can run code in the console and there is a built in error checker too.<br>
   3. Most of the functionality that a beginner needs can be used without signing up or a 'Pro' account.<br>
 
-Pros: js.bin enables you to code Javascript alongside HTML and CSS. <br>
-Cons:
+<b>Pros:</b> js.bin enables you to code Javascript alongside HTML and CSS. <br>
+<b>Cons:</b>
 <br>
 <br>
 
@@ -58,8 +58,8 @@ Cons:
  2. You can run code in the console and there is a built in error checker too.<br>
  3. Most of the functionality that a beginner needs can be used without signing up to a 'Pro' account.<br>
 
-Pros: Built in tool to collaboratively code with others. Useful to code Javascript alongside HTML and CSS.<br>
-Cons: Tricky to get the hang of when starting out, best to use when code is needed to be built alongside HTML AND CSS. 
+<b>Pros:</b> Built in tool to collaboratively code with others. Useful to code Javascript alongside HTML and CSS.<br>
+<b>Cons:</b> Tricky to get the hang of when starting out, best to use when code is needed to be built alongside HTML AND CSS. 
 <br>
 <br>
 
@@ -70,7 +70,7 @@ Cons: Tricky to get the hang of when starting out, best to use when code is need
  2. You can run code in the console and there is a built in error checker too.<br>
  3. Basic functionality can be used without an account but the tool is a small part of a bigger pay for service that most begginers won't want or need.<br>
 
-Pros: Useful to code Javascript alongside HTML and CSS.<br>
-Cons: Could be more intuitive to use. 
+<b>Pros:</b> Useful to code Javascript alongside HTML and CSS.<br>
+<b>Cons:</b> Could be more intuitive to use. 
 <br>
 <br>
