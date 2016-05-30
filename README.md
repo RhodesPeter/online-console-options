@@ -30,6 +30,10 @@ Cons:
 ####[jshint.com](http://jshint.com)
 ![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/jshint.com.png)<br>
 
+  1. Supported languages: Javascript. <br>
+  2. The tool is a simple syntax and error checker. <br>
+  3. You can use 100% of the tool without an account. <br>
+
 Pros:<br>
 Cons:
 <br>
