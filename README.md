@@ -1,6 +1,6 @@
 # Online console options
 
-###Introduction:
+### Introduction:
 
 This README tutorial is an introduction to your online console and debugging options when starting out as a software developer.
 
@@ -17,7 +17,7 @@ There are 3 key points to take into consideration when choosing a platform to us
 
 ### Console and debugging tools:
 
-####[repl.it](https://repl.it/)
+#### [repl.it](https://repl.it/)
 ![alt tag](https://github.com/RhodesPeter/online-console-options/blob/Screenshots/repl.it.png)<br>
  
   1. Supported languages: Python, JavaScript, Ruby, Scheme, C#, Java, PHP, C++, C... (The list goes on!)<br>
@@ -29,7 +29,7 @@ There are 3 key points to take into consideration when choosing a platform to us
 <br>
 <br>
 
-####[jshint.com](http://jshint.com)
+#### [jshint.com](http://jshint.com)
 ![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/jshint.com.png)<br>
 
   1. Supported languages: JavaScript. <br>
@@ -41,7 +41,7 @@ There are 3 key points to take into consideration when choosing a platform to us
 <br>
 <br>
 
-####[jsbin.com](https://jsbin.com)
+#### [jsbin.com](https://jsbin.com)
 ![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsbin.com.png)<br>
 
   1. Supported languages: JavaScript, HTML, CSS, CoffeeScript.<br>
@@ -53,7 +53,7 @@ There are 3 key points to take into consideration when choosing a platform to us
 <br>
 <br>
 
-####[jsfiddle.net](https://jsfiddle.net/)
+#### [jsfiddle.net](https://jsfiddle.net/)
 ![alt tag](https://github.com/RhodesPeter/Console-Options/blob/Screenshots/jsfiddle.png)<br>
 
  1. Supported languages: JavaScript, HTML, CSS, CoffeeScript.<br>
@@ -67,7 +67,7 @@ There are 3 key points to take into consideration when choosing a platform to us
 <br>
 <br>
 
-####[codepen.io](http://codepen.io/nullobject/pen/rAbio)
+#### [codepen.io](http://codepen.io/nullobject/pen/rAbio)
 ![alt tag](https://github.com/RhodesPeter/Online-Console-Options/blob/Screenshots/codepen.io.png)<br>
 
  1. Supported languages: JavaScript, HTML, CSS, CoffeeScript.<br>
